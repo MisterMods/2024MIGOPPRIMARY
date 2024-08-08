@@ -344,7 +344,7 @@ campaignTrail_temp.running_mate_json = [
         "model": "campaign_trail.running_mate",
         "pk": 113632,
         "fields": {
-            "candidate": 1003,
+            "candidate": 20753,
             "running_mate": 1004
         }
     },
@@ -352,7 +352,7 @@ campaignTrail_temp.running_mate_json = [
         "model": "campaign_trail.running_mate",
         "pk": 116471,
         "fields": {
-            "candidate": 1011,
+            "candidate": 21109,
             "running_mate": 1012
         }
     },
@@ -360,7 +360,7 @@ campaignTrail_temp.running_mate_json = [
         "model": "campaign_trail.running_mate",
         "pk": 147949,
         "fields": {
-            "candidate": 1009,
+            "candidate": 21020,
             "running_mate": 1010
         }
     },
@@ -368,7 +368,7 @@ campaignTrail_temp.running_mate_json = [
         "model": "campaign_trail.running_mate",
         "pk": 107454,
         "fields": {
-            "candidate": 1007,
+            "candidate": 20931,
             "running_mate": 1008
         }
     },
@@ -376,7 +376,7 @@ campaignTrail_temp.running_mate_json = [
         "model": "campaign_trail.running_mate",
         "pk": 87946,
         "fields": {
-            "candidate": 1005,
+            "candidate": 20842,
             "running_mate": 1006
         }
     }
@@ -387,11 +387,11 @@ campaignTrail_temp.opponents_default_json = [
         "election": 20,
         "candidates": [
             20664,
-            1003,
-            1005,
-            1007,
-            1009,
-            1011
+            20753,
+            20842,
+            20931,
+            21020,
+            21109
         ]
     }
 ]
@@ -401,11 +401,11 @@ campaignTrail_temp.opponents_weighted_json = [
         "election": 20,
         "candidates": [
             20664,
-            1003,
-            1005,
-            1007,
-            1009,
-            1011
+            20753,
+            20842,
+            20931,
+            21020,
+            21109
         ]
     }
 ]
