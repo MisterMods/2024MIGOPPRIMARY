@@ -55,7 +55,7 @@ campaignTrail_temp.credits = "YaIbnKalbOuHmar on Discord"
 campaignTrail_temp.candidate_json = [
     {
         "model": "campaign_trail.candidate",
-        "pk": 1001,
+        "pk": 20664,
         "fields": {
             "first_name": "Justin",
             "last_name": "Amash",
@@ -101,7 +101,7 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 1003,
+        "pk": 20753,
         "fields": {
             "first_name": "Mike",
             "last_name": "Rogers",
@@ -147,7 +147,7 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 1005,
+        "pk": 20842,
         "fields": {
             "first_name": "James",
             "last_name": "Craig",
@@ -193,7 +193,7 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 1007,
+        "pk": 20931,
         "fields": {
             "first_name": "Sandy",
             "last_name": "Pensler",
@@ -239,7 +239,7 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 1009,
+        "pk": 21020,
         "fields": {
             "first_name": "Peter",
             "last_name": "Meijer",
@@ -285,7 +285,7 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 1011,
+        "pk": 21109,
         "fields": {
             "first_name": "Sherry",
             "last_name": "O'Donnell/Others",
